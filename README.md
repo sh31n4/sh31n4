@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sh31n4
+- 👀 I’m interested in stuff
+- 🌱 I’m currently learning PHP and Javascript
+- 💞️ I’m looking to collaborate on no one
+- 📫 You can reach me on Discord! sugarstick#9640
