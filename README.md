@@ -2,5 +2,4 @@
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning PHP and Javascript
 - 📫 Discord: sugarstick#9640
-- 📫 Twitter: ihatemeithurts
 - 📫 Reddit: u/IchikaYui
